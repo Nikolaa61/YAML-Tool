@@ -1,0 +1,37 @@
+id: 100
+name: "Petar"
+properties:
+    znanje:
+            c: 16
+            java: true
+            python: false
+    predznanje:
+            kodiranje: 1
+            engleski: true
+            francuski: false
+entities:
+    prijatelj:
+            id: 16
+            name: "Dzoni"
+---
+id: 90
+name: "Igor"
+properties:
+    znanje:
+            c: 7
+            java: true
+            python: true
+            javascript: "lose"
+    predznanje:
+            kodiranje: 100
+            francuski: "onako"
+            engleski: "razbijam"
+entities:
+    prijatelj:
+            id: 25
+            name: "Aleksa"
+            properties:
+                  info:
+                        fakultet: "ETF"
+                        godina: 3
+                        znanje: 8
