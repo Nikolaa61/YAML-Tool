@@ -1,0 +1,19 @@
+name: Peter
+id: '123'
+properties:
+  podaci:
+    prezime: Griffin
+    emisija: Family Guy
+    ljubimac: Brian
+  porodica:
+    zena: Lois
+    sin: Chris
+    cerka: Meg
+entities:
+  sinovac:
+    name: Stewie
+    id: '16'
+    properties: {}
+    entities: {}
+---
+sadlkasdada

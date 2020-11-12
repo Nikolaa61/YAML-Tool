@@ -1,0 +1,198 @@
+name: Petar
+id: '20'
+properties:
+  znanje:
+    c: 16
+    java: true
+    python: false
+  predznanje:
+    kodiranje: 1
+    engleski: true
+    francuski: false
+entities:
+  prijatelj:
+    name: Dzoni
+    id: '28'
+    properties:
+      znanje: 15
+      c: 10
+      java: 7
+      python: true
+    entities: {}
+---
+name: Igor
+id: '21'
+properties:
+  znanje:
+    c: 7
+    java: true
+    python: true
+    javascript: lose
+  predznanje:
+    kodiranje: 100
+    francuski: onako
+    engleski: razbijam
+entities:
+  prijatelj:
+    name: Aleksa
+    id: '29'
+    properties:
+      info:
+        fakultet: ETF
+        godina: 3
+        znanje: 8
+    entities: {}
+---
+name: Nikola
+id: '22'
+properties:
+  znanje:
+    c: 16
+    java: true
+    python: false
+  predznanje:
+    kodiranje: 1
+    engleski: true
+    francuski: false
+entities:
+  prijatelj:
+    name: Srki
+    id: '30'
+    properties:
+      znanje: 15
+      c: 10
+      java: 7
+      python: true
+    entities: {}
+---
+name: Jovan
+id: '23'
+properties:
+  znanje:
+    c: 7
+    java: true
+    python: true
+    javascript: lose
+  predznanje:
+    kodiranje: 100
+    francuski: onako
+    engleski: razbijam
+entities:
+  prijatelj:
+    name: Petra
+    id: '31'
+    properties:
+      info:
+        fakultet: ETF
+        godina: 3
+        znanje: 8
+    entities: {}
+---
+name: Aleksandar
+id: '24'
+properties:
+  znanje:
+    c: 16
+    java: true
+    python: false
+  predznanje:
+    kodiranje: 1
+    engleski: true
+    francuski: false
+entities:
+  prijatelj:
+    name: Filip
+    id: '32'
+    properties:
+      znanje: 15
+      c: 10
+      java: 7
+      python: true
+    entities: {}
+---
+name: Milos
+id: '25'
+properties:
+  znanje:
+    c: 7
+    java: true
+    python: true
+    javascript: lose
+  predznanje:
+    kodiranje: 100
+    francuski: onako
+    engleski: razbijam
+entities:
+  prijatelj:
+    name: Igor
+    id: '33'
+    properties:
+      info:
+        fakultet: ETF
+        godina: 3
+        znanje: 8
+    entities: {}
+---
+name: Andrej
+id: '26'
+properties:
+  znanje:
+    c: 16
+    java: true
+    python: false
+  predznanje:
+    kodiranje: 1
+    engleski: true
+    francuski: false
+entities:
+  prijatelj:
+    name: Mihailo
+    id: '34'
+    properties:
+      znanje: 15
+      c: 10
+      java: 7
+      python: true
+    entities: {}
+---
+name: Mihailo
+id: '27'
+properties:
+  znanje:
+    c: 7
+    java: true
+    python: true
+    javascript: lose
+  predznanje:
+    kodiranje: 100
+    francuski: onako
+    engleski: razbijam
+entities:
+  prijatelj:
+    name: Andrej
+    id: '35'
+    properties:
+      info:
+        fakultet: ETF
+        godina: 3
+        znanje: 8
+    entities: {}
+---
+name: Peter
+id: '123'
+properties:
+  podaci:
+    prezime: Griffin
+    emisija: Family Guy
+    ljubimac: Brian
+  porodica:
+    zena: Lois
+    sin: Chris
+    cerka: Meg
+entities:
+  sinovac:
+    name: Stewie
+    id: '16'
+    properties: {}
+    entities: {}
+---
